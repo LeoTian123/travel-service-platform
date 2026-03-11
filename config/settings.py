@@ -157,4 +157,4 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
 # 这个是自己写的 域名：
-BASE_URL = 'http://10.129.229.111/'
+BASE_URL = 'none'
